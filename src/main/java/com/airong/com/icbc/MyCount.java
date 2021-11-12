@@ -6,6 +6,7 @@ public class MyCount {
         System.out.println("hello git2");
         System.out.println("hello git3");
         System.out.println("hello git3");
+        System.out.println("hot-fix change 1");
         System.out.println("master change 1");
     }
 }
